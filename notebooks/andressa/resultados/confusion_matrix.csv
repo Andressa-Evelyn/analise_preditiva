@@ -1,0 +1,10 @@
+true_label,predicted_label,count
+Dropout,Dropout,226
+Dropout,Enrolled,32
+Dropout,Graduate,26
+Enrolled,Dropout,47
+Enrolled,Enrolled,80
+Enrolled,Graduate,32
+Graduate,Dropout,21
+Graduate,Enrolled,62
+Graduate,Graduate,359

@@ -1,0 +1,10 @@
+dados/raw
+src/testes/.pytest_cache
+src/testes/__pycache__
+documentacao_auxiliar
+dados/processed
+__pycache__/
+.DS_Store
+.venv/
+env/
+venv/
