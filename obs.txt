@@ -1,0 +1,18 @@
+Arquitetura
+
+Dados do aluno
+     ↓
+Modelo ML (CatBoost)
+     ↓
+Importância local (Nativo do CatBoost)
+     ↓
+Resumo estruturado (features + impacto)
+     ↓
+LLM local
+     ↓
+Explicação em linguagem natural
+
+
+----
+
+llama3
